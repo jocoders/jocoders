@@ -40,13 +40,20 @@
 
 ### 🔹 Web3 / Blockchain
 <p align="left">
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-solidity-an-object-oriented-programming-language-for-writing-smart-contracts-logo-color-tal-revivo.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-ethers-js-blockchain-outline-juicy-fish.png" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/109253743?s=200&v=4" width="40" height="40" title="Wagmi"/>
-  <img src="https://seeklogo.com/images/F/foundry-logo-53114D6A98-seeklogo.com.png" width="40" height="40" title="Foundry"/>
-  <img src="https://img.icons8.com/fluency/48/000000/hard-hat.png" width="40" height="40" title="Hardhat"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Yul_language_logo.svg" width="40" height="40" title="Yul"/>
+  <!-- Ethereum -->
+  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/eth.png" width="40" height="40" alt="Ethereum" />
+  <!-- Solidity -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
+  <!-- Ethers.js (официальный логотип из репо) -->
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/images/ethers-logo-light.png" width="40" height="40" alt="Ethers.js" />
+  <!-- Wagmi -->
+  <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/profile/wagmi-logo.png" width="40" height="40" alt="Wagmi" />
+  <!-- Foundry -->
+  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" width="40" height="40" alt="Foundry" />
+  <!-- Hardhat -->
+  <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/master/docs/.vuepress/public/hardhat-logo.svg" width="40" height="40" alt="Hardhat" />
+  <!-- Yul (официальной иконки нет — ставлю минималистичную от Solidity c подписью) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Yul" title="Yul" />
 </p>
 
 ### 🔹 Backend
