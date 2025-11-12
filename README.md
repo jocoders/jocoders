@@ -40,20 +40,11 @@
 
 ### 🔹 Web3 / Blockchain
 <p align="left">
-  <!-- Ethereum -->
-  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/eth.png" width="40" height="40" alt="Ethereum" />
-  <!-- Solidity -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
-  <!-- Ethers.js (официальный логотип из репо) -->
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/images/ethers-logo-light.png" width="40" height="40" alt="Ethers.js" />
-  <!-- Wagmi -->
-  <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/profile/wagmi-logo.png" width="40" height="40" alt="Wagmi" />
-  <!-- Foundry -->
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" width="40" height="40" alt="Foundry" />
-  <!-- Hardhat -->
-  <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/master/docs/.vuepress/public/hardhat-logo.svg" width="40" height="40" alt="Hardhat" />
-  <!-- Yul (официальной иконки нет — ставлю минималистичную от Solidity c подписью) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Yul" title="Yul" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
+  <img src="https://getfoundry.sh/foundry-logo.png" width="40" height="40" alt="Foundry"/>
+  <img src="https://wagmi.sh/logo-light.svg" width="100" height="100" alt="Wagmi"/>
+  <img src="https://hardhat.org/images/hardhat-logo-dark.svg" width="180" height="180" alt="Hardhat"/>
+
 </p>
 
 ### 🔹 Backend
